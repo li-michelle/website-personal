@@ -1,3 +1,1 @@
-# web-platform-aqexqb
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-aqexqb)
+Mica's personal website. An attempt to teach myself HTML, CSS, and JavaScript.
